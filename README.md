@@ -5,10 +5,12 @@
 1. Solution implemented for FixedBid type. it can be enhanced to HourlyBid type. 
 2. Buyers(50,000) registered as part of the system start up.
 3. Error scenarios handled for below use cases
+```	
 	a. Project not found
 	b. System Available for scheduling
 	c. Bids not found
 	d. Buyer not found
+```
 4. Unit test case implemented
 5. Following APIs implemented
 ```
